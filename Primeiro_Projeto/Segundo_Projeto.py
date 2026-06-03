@@ -1,0 +1,6 @@
+print("----------------------------")
+print("Perigo: Célula em inicialização")
+print("----------------------------")
+print("Ligando Exaustor de Gases")
+print("Energizando Braço Robótico...")
+print("Aguardando comando de Start do Operador")
